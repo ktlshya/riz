@@ -1,8 +1,9 @@
-# Riz - A Hugo theme based on hugo-theme-even
+# Riz
+A Hugo theme based on hugo-theme-even
 
 # Quick Start 
 
-## 1. Install HUGO 
+## 1. Install Hugo 
 - see: https://gohugo.io/getting-started/installing/
 ## 2. Create New Site
 ```
