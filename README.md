@@ -1,5 +1,4 @@
-# Riz
-A Hugo theme based on hugo-theme-even
+# Riz - A Hugo theme based on hugo-theme-even
 
 # Quick Start 
 
