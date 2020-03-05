@@ -13,7 +13,7 @@ cd mysite
 ```
 ## 3. Config Riz Theme
 ```
-git clone https://github.com/ktlshya/riz.git themes/riz
+git submodule add https://github.com/ktlshya/riz.git themes/riz
 
 mv themes/riz/config/config.toml ./
 ```
