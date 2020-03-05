@@ -7,7 +7,9 @@
     {{- end -}}
   </a>
   <div style="font-size: small;">
-    愚自少讀書，有所得輒記之，其有不合，時復改定。
+    {{- if .Site.Params.description -}}
+      {{ .Site.Params.description }}
+    {{- end -}}
   </div>
 </div>
 
