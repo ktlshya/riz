@@ -30,7 +30,7 @@
     "webpack-cli": "^3.1.2"
   },
   "dependencies": {
-    "serialize-javascript": "^3.0.0",
+    "serialize-javascript": "^3.1.0",
     "set-value": "^3.0.1"
   }
 }
